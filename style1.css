@@ -1,0 +1,17 @@
+.red{
+
+    background:red;
+    color: white;
+
+}
+.green{
+
+    background-color: green;
+    color: yellow;
+
+}
+*{
+
+    margin: 0;
+    padding: 0;
+}
